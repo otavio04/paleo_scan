@@ -1,0 +1,10 @@
+22:40:55 **** Incremental Build of configuration Debug for project delay_micros ****
+make -j8 all 
+arm-none-eabi-size   delay_micros.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7776	     20	   1644	   9440	   24e0	delay_micros.elf
+Finished building: default.size.stdout
+ 
+
+22:40:55 Build Finished. 0 errors, 0 warnings. (took 302ms)
+

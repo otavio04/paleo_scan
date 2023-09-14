@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/illumination_screen/IlluminationPresenter.hpp:28:13:IlluminationPresenter::~IlluminationPresenter()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationPresenter.cpp:10:6:virtual void IlluminationPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/illumination_screen/IlluminationPresenter.hpp:28:13:virtual IlluminationPresenter::~IlluminationPresenter()	8	static
+../../TouchGFX/gui/include/gui/illumination_screen/IlluminationPresenter.hpp:28:13:virtual void* IlluminationPresenter::_ZThn4_N21IlluminationPresenterD1Ev()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationPresenter.cpp:4:1:IlluminationPresenter::IlluminationPresenter(IlluminationView&)	8	static

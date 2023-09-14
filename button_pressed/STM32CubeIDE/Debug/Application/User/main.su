@@ -1,0 +1,5 @@
+C:/TouchGFXProjects/button_pressed/Core/Src/main.c:712:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/button_pressed/Core/Src/main.c:196:6:SystemClock_Config	96	static
+C:/TouchGFXProjects/button_pressed/Core/Src/main.c:107:5:main	248	static
+C:/TouchGFXProjects/button_pressed/Core/Src/main.c:731:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/button_pressed/Core/Src/main.c:748:6:Error_Handler	0	static

@@ -1,0 +1,20 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/calibration_screen/CalibrationView.hpp:11:13:CalibrationView::~CalibrationView()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:121:6:virtual void CalibrationView::tearDownScreen()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:116:6:virtual void CalibrationView::setupScreen()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:126:6:virtual void CalibrationView::init_c()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:131:6:virtual void CalibrationView::plus_c()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:138:6:virtual void CalibrationView::minus_c()	8	static
+../../TouchGFX/gui/include/gui/calibration_screen/CalibrationView.hpp:11:13:virtual CalibrationView::~CalibrationView()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:9:6:void motor_x_c()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:20:6:void motor_y_c()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:31:6:void camera_c(int)	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:154:6:virtual void CalibrationView::pict_c()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:40:6:void vertex_c(int, int)	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:74:6:void go_center()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:148:6:virtual void CalibrationView::center_c()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:100:6:void pict_delayed(int, int)	24	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:159:6:virtual void CalibrationView::start_c()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/calibration_screen/CalibrationView.cpp:111:1:CalibrationView::CalibrationView()	8	static

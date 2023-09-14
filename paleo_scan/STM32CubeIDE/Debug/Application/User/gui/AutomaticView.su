@@ -1,0 +1,24 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:118:6:virtual void AutomaticView::tearDownScreen()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:113:6:virtual void AutomaticView::setupScreen()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:123:6:virtual void AutomaticView::btn_pict_h_p()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:132:6:virtual void AutomaticView::btn_pict_h_m()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:144:6:virtual void AutomaticView::btn_pict_v_p()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:153:6:virtual void AutomaticView::btn_pict_v_m()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:165:6:virtual void AutomaticView::btn_offs_h_p()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:177:6:virtual void AutomaticView::btn_offs_h_m()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:189:6:virtual void AutomaticView::btn_offs_v_p()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:201:6:virtual void AutomaticView::btn_offs_v_m()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:18:5:int convert_cm2pulses_a(int, char)	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:28:6:void init_motors_cam_a()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:43:6:void motor_x_a()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:54:6:void motor_y_a()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:65:6:void vertex(int, int)	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:299:6:virtual void AutomaticView::init_pict()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:99:6:void camera_a(int)	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:213:6:virtual void AutomaticView::btn_start_auto()	64	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:108:1:AutomaticView::AutomaticView()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/automatic_screen/AutomaticView.cpp:321:1:cpp)	8	static
+../../TouchGFX/gui/include/gui/automatic_screen/AutomaticView.hpp:11:13:AutomaticView::~AutomaticView()	8	static
+../../TouchGFX/gui/include/gui/automatic_screen/AutomaticView.hpp:11:13:virtual AutomaticView::~AutomaticView()	8	static

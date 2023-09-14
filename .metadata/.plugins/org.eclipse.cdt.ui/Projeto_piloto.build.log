@@ -1,0 +1,17 @@
+17:00:12 **** Incremental Build of configuration Debug for project Projeto_piloto ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F469xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-g++ -o "Projeto_piloto.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Otavio\STM32CubeIDE\workspace_1.9.0\Projeto_piloto\STM32F469NIHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Projeto_piloto.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: Projeto_piloto.elf
+ 
+arm-none-eabi-size   Projeto_piloto.elf 
+arm-none-eabi-objdump -h -S  Projeto_piloto.elf  > "Projeto_piloto.list"
+   text	   data	    bss	    dec	    hex	filename
+   6788	     20	   1612	   8420	   20e4	Projeto_piloto.elf
+Finished building: default.size.stdout
+ 
+Finished building: Projeto_piloto.list
+ 
+
+17:00:13 Build Finished. 0 errors, 0 warnings. (took 923ms)
+

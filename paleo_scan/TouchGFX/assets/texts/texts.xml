@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.19.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_6Y1X" Alignment="Left" TypographyId="Paleo_40">
+        <Translation Language="GB">15</Translation>
+      </Text>
+      <Text Id="__SingleUse_AS0S" Alignment="Center" TypographyId="Paleo_40">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HP20" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_QMUY" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Automatic</Translation>
+      </Text>
+      <Text Id="__SingleUse_AGG5" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Picture</Translation>
+      </Text>
+      <Text Id="__SingleUse_0AX3" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Manual</Translation>
+      </Text>
+      <Text Id="__SingleUse_I61E" Alignment="Left" TypographyId="Paleo_40_bold">
+        <Translation Language="GB">Calibration</Translation>
+      </Text>
+      <Text Id="__SingleUse_H16L" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Calibration</Translation>
+      </Text>
+      <Text Id="__SingleUse_GUVU" Alignment="Left" TypographyId="Super_big">
+        <Translation Language="GB">Wait...</Translation>
+      </Text>
+      <Text Id="__SingleUse_3CI3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_33KQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_PCTR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_OJPE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">10</Translation>
+      </Text>
+      <Text Id="__SingleUse_13W7" Alignment="Left" TypographyId="Paleo_40_bold">
+        <Translation Language="GB">Automatic Mode</Translation>
+      </Text>
+      <Text Id="__SingleUse_6OY1" Alignment="Left" TypographyId="Paleo_40_bold">
+        <Translation Language="GB">Manual Mode</Translation>
+      </Text>
+      <Text Id="__SingleUse_9CTV" Alignment="Left" TypographyId="Paleo_30">
+        <Translation Language="GB">Brightness Ratio</Translation>
+      </Text>
+      <Text Id="__SingleUse_FSSI" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Picture</Translation>
+      </Text>
+      <Text Id="__SingleUse_6IW9" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_OJPP" Alignment="Right" TypographyId="Paleo_small">
+        <Translation Language="GB">Made at NYU Tandon School of Engineering (2022) </Translation>
+      </Text>
+      <Text Id="__SingleUse_N1CE" Alignment="Center" TypographyId="Paleo_40">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_6ZLA" Alignment="Center" TypographyId="Paleo_40">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NH8V" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Vertical</Translation>
+      </Text>
+      <Text Id="__SingleUse_DF0Z" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Horizontal</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZVWP" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Offset (cm)</Translation>
+      </Text>
+      <Text Id="__SingleUse_WLF1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_9VZV" Alignment="Center" TypographyId="Paleo_40">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CZPX" Alignment="Center" TypographyId="Paleo_40">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HMZY" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Vertical</Translation>
+      </Text>
+      <Text Id="__SingleUse_7XWR" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Horizontal</Translation>
+      </Text>
+      <Text Id="__SingleUse_650Y" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Number of Pictures</Translation>
+      </Text>
+      <Text Id="__SingleUse_0CQA" Alignment="Center" TypographyId="Paleo_40">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_CY1H" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Distance (cm)</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q2B0" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Move</Translation>
+      </Text>
+      <Text Id="__SingleUse_FSA5" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">1/4</Translation>
+      </Text>
+      <Text Id="__SingleUse_8C9O" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">3/4</Translation>
+      </Text>
+      <Text Id="__SingleUse_V76J" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_MR24" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">1/2</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q7YP" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_S91Z" Alignment="Left" TypographyId="Paleo_40_bold">
+        <Translation Language="GB">Illumination</Translation>
+      </Text>
+      <Text Id="__SingleUse_0BA7" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Illumination</Translation>
+      </Text>
+      <Text Id="__SingleUse_FQEX" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Automatic</Translation>
+      </Text>
+      <Text Id="__SingleUse_FRIW" Alignment="Center" TypographyId="Paleo_30">
+        <Translation Language="GB">Manual</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Number_large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Paleo_small" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Paleo_20" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Paleo_40" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Paleo_20_bold" Font="verdanab.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Paleo_40_bold" Font="verdanab.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Paleo_30" Font="verdana.ttf" Size="30" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Paleo_30_bold" Font="verdanab.ttf" Size="30" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Super_big" Font="verdana.ttf" Size="80" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

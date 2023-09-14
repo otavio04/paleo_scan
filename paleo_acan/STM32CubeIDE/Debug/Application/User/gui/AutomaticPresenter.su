@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/automatic_screen/AutomaticPresenter.hpp:28:13:AutomaticPresenter::~AutomaticPresenter()	0	static
+C:/TouchGFXProjects/paleo_acan/TouchGFX/gui/src/automatic_screen/AutomaticPresenter.cpp:10:6:virtual void AutomaticPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/automatic_screen/AutomaticPresenter.hpp:28:13:virtual AutomaticPresenter::~AutomaticPresenter()	8	static
+../../TouchGFX/gui/include/gui/automatic_screen/AutomaticPresenter.hpp:28:13:virtual void* AutomaticPresenter::_ZThn4_N18AutomaticPresenterD1Ev()	0	static
+C:/TouchGFXProjects/paleo_acan/TouchGFX/gui/src/automatic_screen/AutomaticPresenter.cpp:4:1:AutomaticPresenter::AutomaticPresenter(AutomaticView&)	8	static

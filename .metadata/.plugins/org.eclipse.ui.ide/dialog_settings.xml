@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\TouchGFXProjects\delay_screen"/>
+			<item value="C:\TouchGFXProjects\delay_gui"/>
+			<item value="C:\TouchGFXProjects\delay_us_screen_test"/>
+			<item value="C:\TouchGFXProjects\delay_micros"/>
+			<item value="C:\TouchGFXProjects\delay_us_GUI_test"/>
+			<item value="C:\TouchGFXProjects\animator_test"/>
+			<item value="C:\TouchGFXProjects\button_pressed"/>
+			<item value="C:\TouchGFXProjects\input_test"/>
+			<item value="C:\TouchGFXProjects\just_super_led"/>
+			<item value="C:\TouchGFXProjects\paleo_scan"/>
+			<item value="C:\TouchGFXProjects\super_LED"/>
+			<item value="C:\TouchGFXProjects\paleo_acan"/>
+			<item value="C:\TouchGFXProjects\g"/>
+			<item value="C:\TouchGFXProjects\f"/>
+			<item value="C:\TouchGFXProjects\d"/>
+			<item value="C:\TouchGFXProjects\step_m"/>
+			<item value="C:\TouchGFXProjects\step_motor_test"/>
+			<item value="C:\TouchGFXProjects\reverse_blin"/>
+			<item value="C:\Users\Otavio\STM32CubeIDE\workspace_1.9.0\Projeto_piloto"/>
+			<item value="C:\TouchGFXProjects\reverse_blink"/>
+			<item value="C:\TouchGFXProjects\MyApplication_5"/>
+			<item value="C:\TouchGFXProjects\Wildcard_test"/>
+			<item value="C:\TouchGFXProjects\Send_data"/>
+			<item value="C:\TouchGFXProjects\Call_function"/>
+			<item value="C:\TouchGFXProjects\MyApplication"/>
+			<item value="C:\TouchGFXProjects\test"/>
+			<item value="C:\TouchGFXProjects\ab"/>
+			<item value="C:\TouchGFXProjects\abc"/>
+			<item value="C:\TouchGFXProjects\Touth_stepper_motor"/>
+			<item value="C:\TouchGFXProjects\GUI-Manual_blink"/>
+		</list>
+	</section>
+</section>

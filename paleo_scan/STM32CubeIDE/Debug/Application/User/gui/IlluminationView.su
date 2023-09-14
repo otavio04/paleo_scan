@@ -1,0 +1,18 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/illumination_screen/IlluminationView.hpp:11:13:IlluminationView::~IlluminationView()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:163:6:virtual void IlluminationView::tearDownScreen()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:158:6:virtual void IlluminationView::setupScreen()	0	static
+../../TouchGFX/gui/include/gui/illumination_screen/IlluminationView.hpp:11:13:virtual IlluminationView::~IlluminationView()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:16:1:IlluminationView::IlluminationView()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:21:6:void Set_LED(int, int, int, int)	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:29:6:void Set_Brightness(int)	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:49:6:void WS2812_Send()	24	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:88:6:void HAL_TIM_PWM_PulseFinishedCallback(TIM_HandleTypeDef*)	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:94:6:void tur_on_led(int)	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:168:6:virtual void IlluminationView::i_1()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:173:6:virtual void IlluminationView::i_34()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:178:6:virtual void IlluminationView::i_12()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:183:6:virtual void IlluminationView::i_14()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/illumination_screen/IlluminationView.cpp:188:6:virtual void IlluminationView::i_0()	0	static

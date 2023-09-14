@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/manual_screen/ManualPresenter.hpp:28:13:ManualPresenter::~ManualPresenter()	0	static
+C:/TouchGFXProjects/paleo_acan/TouchGFX/gui/src/manual_screen/ManualPresenter.cpp:10:6:virtual void ManualPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/manual_screen/ManualPresenter.hpp:28:13:virtual ManualPresenter::~ManualPresenter()	8	static
+../../TouchGFX/gui/include/gui/manual_screen/ManualPresenter.hpp:28:13:virtual void* ManualPresenter::_ZThn4_N15ManualPresenterD1Ev()	0	static
+C:/TouchGFXProjects/paleo_acan/TouchGFX/gui/src/manual_screen/ManualPresenter.cpp:4:1:ManualPresenter::ManualPresenter(ManualView&)	8	static

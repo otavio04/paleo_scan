@@ -1,0 +1,8 @@
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:794:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:104:6:DWT_Init	0	static
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:114:10:DWT_Get	0	static
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:125:6:DWT_Delay	8	static
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:226:6:SystemClock_Config	96	static
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:136:5:main	248	static
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:813:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/delay_screen/Core/Src/main.c:830:6:Error_Handler	0	static

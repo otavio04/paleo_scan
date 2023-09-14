@@ -1,0 +1,22 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../TouchGFX/gui/include/gui/manual_screen/ManualView.hpp:11:13:ManualView::~ManualView()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:79:6:virtual void ManualView::tearDownScreen()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:74:6:virtual void ManualView::setupScreen()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:85:6:virtual void ManualView::dist_up()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:94:6:virtual void ManualView::dist_down()	8	static
+../../TouchGFX/gui/include/gui/manual_screen/ManualView.hpp:11:13:virtual ManualView::~ManualView()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:12:5:int convert_cm2pulses(int, char)	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:22:6:void init_motors_cam()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:189:6:virtual void ManualView::init_m()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:37:6:void motor_x()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:125:6:virtual void ManualView::move_left()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:163:6:virtual void ManualView::move_right()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:48:6:void motor_y()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:106:6:virtual void ManualView::move_up()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:144:6:virtual void ManualView::move_down()	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:59:6:void camera(int)	16	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:182:6:virtual void ManualView::picture_m()	0	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:69:1:ManualView::ManualView()	8	static
+C:/TouchGFXProjects/paleo_scan/TouchGFX/gui/src/manual_screen/ManualView.cpp:197:1:cpp)	8	static

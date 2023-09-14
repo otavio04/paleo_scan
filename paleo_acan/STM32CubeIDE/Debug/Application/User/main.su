@@ -1,0 +1,5 @@
+C:/TouchGFXProjects/paleo_acan/Core/Src/main.c:739:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/paleo_acan/Core/Src/main.c:196:6:SystemClock_Config	96	static
+C:/TouchGFXProjects/paleo_acan/Core/Src/main.c:107:5:main	248	static
+C:/TouchGFXProjects/paleo_acan/Core/Src/main.c:758:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/paleo_acan/Core/Src/main.c:775:6:Error_Handler	0	static
